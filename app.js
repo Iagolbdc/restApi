@@ -18,6 +18,7 @@ const whiteList = [
   'http://localhost:8101',
   'http://localhost:8100/alunos',
   'http://localhost:8100',
+  'http://4alltests.com.br'
 ];
 
 const corsOptions = {
